@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+h1, h2{
+    font-family: 'Libre Baskerville';
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+}
+
+.libre{
+    font-family: 'Libre Baskerville', serif;
+}
+
+button{
+    color: white;
+    background-color: black;
+    padding: 1rem 1.5rem;
+}
