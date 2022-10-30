@@ -27,7 +27,6 @@
 		</div>
 		<div class="flex flex-wrap flex-col md:flex-row gap-y-6 justify-center items-center ">
 			<Card card={card[0]}/>
-			<Card  card={card[1]}/>
 		</div>
 	</div>
 </section>
